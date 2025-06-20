@@ -5,7 +5,7 @@
 <body>
     <h2>💫 About Me:</h2>
     <p>👋 Hi! I'm Renad Iwidat,</p>
-    <p>I am a passionate Computer Science student specializing in Artificial Intelligence at An-Najah National University.</p>
+    <p>I am a CAP student specializing in Artificial Intelligence at An-Najah National University.</p>
     <h2>🔍 Interests in:</h2>
     <ul>
         <li>🤖 Artificial Intelligence & Machine Learning</li>
